@@ -36,7 +36,7 @@ class CustomComp extends React.Component {
         <head title={'bolster'}>
           <title>tttt</title>
           <DocumentMeta {...meta} extend/>
-          head
+          heade
         </head>
         head
       </div>
