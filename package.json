@@ -2,7 +2,7 @@
   "name": "ss",
   "version": "0.1.0",
   "engines": {
-    "npm": "12.x"
+    "npm": "12.14.1"
   },
   "private": true,
   "dependencies": {
