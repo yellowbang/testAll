@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import {CustomComp} from './Comp';
+import {DnD} from './views/DnD';
 
 function App() {
 
   return (
     <div className="App">
-      <CustomComp/>
+      <DnD/>
     </div>
   );
 }
